@@ -30,7 +30,7 @@ i dzielenia. Zamiast wykorzystywać zmiennych do operacji arytmetycznych proszę
 * Można wyłącznie przetrzymywać argumenty a i b w zmiennych.
 ### [Single-digit Factorial](single-digit-factorial.asm)
 
-•Napisz program do liczenia silni, liczby jednocyfrowej* wprowadzanej z klawiatury, wynik wyświetlaj w systemie dziesiętnym za pomocą znaków ASCII.
+Napisz program do liczenia silni, liczby jednocyfrowej* wprowadzanej z klawiatury, wynik wyświetlaj w systemie dziesiętnym za pomocą znaków ASCII.
 * Stosuj procedury
 
 * Stosuj stos
